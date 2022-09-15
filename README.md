@@ -1,4 +1,4 @@
-# EconomicCrisisPrediction
+# Financial Crisis Prediction
 Performed network analysis on stock market data from 2008,2019 and 2020 data for 30 stock indices.
 
 Used Granger Causality to create a directed weighted network of the stock indices.
